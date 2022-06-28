@@ -2,6 +2,7 @@
 
 deploy manually:
 https://firstweb3project-william967945.netlify.app/
+
 deploy from github repo using netlify:
 https://sensational-gecko-d88320.netlify.app/
 
